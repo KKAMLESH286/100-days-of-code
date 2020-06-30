@@ -9,7 +9,7 @@
 **Link to work:** https://freecodecamp.org
 
 
-### Day 1: 29th June 2020
+### Day 2: 29th June 2020
 
 **Today's Progress**: Completed 100% challenge of Visual design from freecodecamp
 
