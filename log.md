@@ -9,11 +9,19 @@
 **Link to work:** https://freecodecamp.org
 
 
-### Day 1: 29th June 2020
+### Day 2: 29th June 2020
 
 **Today's Progress**: Completed 100% challenge of Visual design from freecodecamp
 
 **Thoughts:** Learnt ::before ::after psudo elements and animations. Really amazing
+
+**Link to work:** https://freecodecamp.org
+
+### Day 3: 30th June 2020
+
+**Today's Progress**: Completed Applied accessibility from freecodecamp
+
+**Thoughts:** Really very important part that we usually ignore while developing the projects. 
 
 **Link to work:** https://freecodecamp.org
 
