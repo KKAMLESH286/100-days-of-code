@@ -25,5 +25,11 @@
 
 **Link to work:** https://freecodecamp.org
 
+### Day 4: 1st July 2020
 
+**Today's Progress**: Completed Media query section and other responsive design principles.
+
+**Thoughts:** Media query is amazing to make our websites responsive
+
+**Link to work:** https://freecodecamp.org
 
