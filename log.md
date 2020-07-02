@@ -33,3 +33,12 @@
 
 **Link to work:** https://freecodecamp.org
 
+
+### Day 5: 2nd July 2020
+
+**Today's Progress**: Completed CSS flexbox topic
+
+**Thoughts:** I have been completed the kevin powell lecture for css flexbox so it was easy for me.
+
+**Link to work:** https://freecodecamp.org
+
