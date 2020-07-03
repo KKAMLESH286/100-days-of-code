@@ -42,3 +42,10 @@
 
 **Link to work:** https://freecodecamp.org
 
+### Day 6: 3rd July 2020
+
+**Today's Progress**: Completed CSS Grid topic
+
+**Thoughts:** Now cleared some major doubts of grid. Need to practice alot. 
+
+**Link to work:** https://freecodecamp.org
