@@ -49,3 +49,13 @@
 **Thoughts:** Now cleared some major doubts of grid. Need to practice alot. 
 
 **Link to work:** https://freecodecamp.org
+
+### Day 7: 4th July 2020
+
+**Today's Progress**: Did some quizes on completed topics in SoloLearn and in  ProgrammingHero
+.
+how to use figmadesign for prototyping the upcoming freeCodeCam projects.
+
+**Thoughts:** Is figma tool is good for prototyping the web projects?
+
+**Link to work:** https://freecodecamp.org
