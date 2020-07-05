@@ -59,3 +59,17 @@ how to use figmadesign for prototyping the upcoming freeCodeCam projects.
 **Thoughts:** Is figma tool is good for prototyping the web projects?
 
 **Link to work:** https://freecodecamp.org
+
+started the 21-days challenge of Kevin Powell free course.
+White heavy check mark Completed the first challenge of day 1
+White heavy check mark Started the prototyping of first tribute page project 
+@freeCodeCamp
+ 
+### Day 8: 5th July 2020
+
+**Today's Progress**: started the 21-days challenge of Kevin Powell free course. Completed the first challenge of day 1 and Started the prototyping of first tribute page project 
+@freeCodeCamp
+
+**Thoughts:** Kevinpowell course side by side
+
+**Link to work:** https://freecodecamp.org https://courses.kevinpowell.co/courses/conquering-responsive-layouts
