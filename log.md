@@ -60,10 +60,7 @@ how to use figmadesign for prototyping the upcoming freeCodeCam projects.
 
 **Link to work:** https://freecodecamp.org
 
-started the 21-days challenge of Kevin Powell free course.
-White heavy check mark Completed the first challenge of day 1
-White heavy check mark Started the prototyping of first tribute page project 
-@freeCodeCamp
+
  
 ### Day 8: 5th July 2020
 
@@ -71,5 +68,18 @@ White heavy check mark Started the prototyping of first tribute page project
 @freeCodeCamp
 
 **Thoughts:** Kevinpowell course side by side
+
+**Link to work:** https://freecodecamp.org https://courses.kevinpowell.co/courses/conquering-responsive-layouts
+
+
+
+### Day 9: 6th July 2020
+
+**Today's Progress**: Completed specific use case of em's and rem's relative units in CSS. 
+Got some ideas how to get started with rough layout for projects.
+Started reading Grokking Algorithm book. It's a really amazing book for beginners.
+
+
+**Thoughts:** I'll start working on my tribute page project from tomorrow.
 
 **Link to work:** https://freecodecamp.org https://courses.kevinpowell.co/courses/conquering-responsive-layouts
