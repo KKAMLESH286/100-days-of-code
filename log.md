@@ -83,3 +83,46 @@ Started reading Grokking Algorithm book. It's a really amazing book for beginner
 **Thoughts:** I'll start working on my tribute page project from tomorrow.
 
 **Link to work:** https://freecodecamp.org https://courses.kevinpowell.co/courses/conquering-responsive-layouts
+
+### Day 10: 7th July 2020
+
+**Today's Progress**: Completed day 2  challenge of Kevinpowell course.
+Started the javascript course of beginners by @traversymedia
+ 
+
+**Thoughts:** Now the time to start the javascript parallely
+
+**Link to work:** https://freecodecamp.org https://courses.kevinpowell.co/courses/conquering-responsive-layouts
+
+### Day 11: 8th July 2020
+
+**Today's Progress**: Got to know the use cases of vh, vw, vmax and vmin. 
+Used vmax in my own project will showcase it later.
+Data types in javascript
+
+
+**Thoughts:** just doing fundamentals of javascript.
+
+**Link to work:** https://freecodecamp.org https://courses.kevinpowell.co/courses/conquering-responsive-layouts
+
+
+### Day 12: 9th July 2020
+
+**Today's Progress**: Completed Arrays and type literals of JS today 
+Completed my 3rd challenge of responsive design.
+
+
+**Thoughts:** responsive design challenges are more interesting.
+
+**Link to work:** https://freecodecamp.org https://courses.kevinpowell.co/courses/conquering-responsive-layouts
+
+
+### Day 13: 10th July 2020
+
+**Today's Progress**: Completed Object Literals, Date and time and the math object of JS.
+
+
+**Thoughts:** I'll start working on my tribute page project from tomorrow.
+
+**Link to work:** https://freecodecamp.org https://courses.kevinpowell.co/courses/conquering-responsive-layouts
+
