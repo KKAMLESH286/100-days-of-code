@@ -126,3 +126,15 @@ Completed my 3rd challenge of responsive design.
 
 **Link to work:** https://freecodecamp.org https://courses.kevinpowell.co/courses/conquering-responsive-layouts
 
+### Day 14: 11th July 2020
+
+**Today's Progress**: Completed If statements and comparison operators in javascript.
+Also completed my first project Tribute page of freecodecamp.
+
+
+**Thoughts:** now looking forward to start the survey page project.
+
+**Link to work:** https://freecodecamp.org 
+codepen link:https://codepen.io/kkamlesh286/details/LYGrmQa
+
+
