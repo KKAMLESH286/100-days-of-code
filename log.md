@@ -137,4 +137,33 @@ Also completed my first project Tribute page of freecodecamp.
 **Link to work:** https://freecodecamp.org 
 codepen link:https://codepen.io/kkamlesh286/details/LYGrmQa
 
+### Day 15: 12th July 2020
+
+**Today's Progress**: Completed first challenge of flexbox of kevinpowell course
+
+
+**Thoughts:** now looking forward to start the survey page project.
+
+**Link to work:** https://freecodecamp.org 
+codepen link:https://codepen.io/kkamlesh286/details/LYGrmQa
+
+### Day 16: 13th July 2020
+
+**Today's Progress**: checked basics of flexbox and ready for the challenge
+
+
+**Thoughts:** thinking to start figma sketch for survey page
+
+**Link to work:** https://freecodecamp.org 
+codepen link:https://codepen.io/kkamlesh286/details/LYGrmQa
+
+### Day 17: 14th July 2020
+
+**Today's Progress**: completed flexbox challenge 2 of kevinpowell course
+Complete basic fundamentals of javascript
+**Thoughts:** pretty excited to play with window objects especially DOM
+
+**Link to work:** https://freecodecamp.org 
+codepen link:https://codepen.io/kkamlesh286/details/LYGrmQa
+
 
