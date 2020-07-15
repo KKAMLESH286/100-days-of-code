@@ -166,4 +166,16 @@ Complete basic fundamentals of javascript
 **Link to work:** https://freecodecamp.org 
 codepen link:https://codepen.io/kkamlesh286/details/LYGrmQa
 
+### Day 18: 15th July 2020
+
+**Today's Progress**: completed flexbox challenge 3 of kevinpowell course
+ Played with DOM for single and multiple elements including query selectors.
+**Thoughts:** Thinking to start the survey page project of 
+@freeCodeCamp
+ 
+
+**Link to work:** https://freecodecamp.org 
+codepen link:https://codepen.io/kkamlesh286/details/LYGrmQa
+https://udemy.com
+
 
