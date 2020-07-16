@@ -179,3 +179,20 @@ codepen link:https://codepen.io/kkamlesh286/details/LYGrmQa
 https://udemy.com
 
 
+Black square button Started the challenge 3 of flexbox 
+Black square button Started javascript course from 
+@freeCodeCamp
+ 
+Black square button 
+
+### Day 19: 16th July 2020
+
+**Today's Progress**: Started the challenge 3 of flexbox 
+ Started javascript course from @freeCodeCamp
+**Thoughts:** Trying to design survey page in figma
+ 
+
+**Link to work:** https://freecodecamp.org 
+codepen link:https://codepen.io/kkamlesh286/details/LYGrmQa
+https://udemy.com
+
