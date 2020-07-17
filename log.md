@@ -196,3 +196,16 @@ Black square button
 codepen link:https://codepen.io/kkamlesh286/details/LYGrmQa
 https://udemy.com
 
+### Day 20th : 17th July 2020
+
+**Today's Progress**: Completed flexbox challenge #4 of Kevinpowell course
+ Completed 48% basic #javascript of @freeCodeCamp
+#100DaysOfCode #CodeNewbies #DEVCommunity
+
+**Thoughts:** And last but not the least @ossialiked @vince_webdev reply in my tweet which made my day
+ 
+
+**Link to work:** https://freecodecamp.org 
+codepen link:https://codepen.io/kkamlesh286/details/LYGrmQa
+https://udemy.com
+
