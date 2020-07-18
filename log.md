@@ -209,3 +209,18 @@ https://udemy.com
 codepen link:https://codepen.io/kkamlesh286/details/LYGrmQa
 https://udemy.com
 
+
+
+### Day 21st : 8th July 2020
+
+**Today's Progress**: Completed 67% of javascript basics from freecodecamp
+
+**Thoughts:** today was the break from kevinpowell course so enjoyed some time playing with guitar
+ 
+
+**Link to work:** https://freecodecamp.org 
+codepen link:https://codepen.io/kkamlesh286/details/LYGrmQa
+https://udemy.com
+
+
+
