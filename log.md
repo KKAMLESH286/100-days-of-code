@@ -211,7 +211,7 @@ https://udemy.com
 
 
 
-### Day 21st : 8th July 2020
+### Day 21st : 18th July 2020
 
 **Today's Progress**: Completed 67% of javascript basics from freecodecamp
 
@@ -221,6 +221,24 @@ https://udemy.com
 **Link to work:** https://freecodecamp.org 
 codepen link:https://codepen.io/kkamlesh286/details/LYGrmQa
 https://udemy.com
+
+Completed arrays, functions, and object section in #javascript  from 
+@freeCodeCamp
+ 
+White heavy check mark Revised media queries of #cssresult from Kevinpowell course
+
+### Day 22nd : 19th July 2020
+
+**Today's Progress**: Completed arrays, functions, and object section in #javascript  from @freeCodeCamp 
+Revised media queries of #cssresult from Kevinpowell course
+**Thoughts:** no thoughts for today
+ 
+
+**Link to work:** https://freecodecamp.org 
+codepen link:https://codepen.io/kkamlesh286/details/LYGrmQa
+https://udemy.com
+
+
 
 
 
