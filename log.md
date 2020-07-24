@@ -241,4 +241,77 @@ https://udemy.com
 
 
 
+### Day 23rd : 20th July 2020
+
+**Today's Progress**: Completed loops, recursion, iteration with loops and profile loopkups of javascript and Played with media query breakpoints of CSS
+**Thoughts:** no thoughts for today
+ 
+
+**Link to work:** https://freecodecamp.org 
+codepen link:https://codepen.io/kkamlesh286/details/LYGrmQa
+https://udemy.com
+
+
+
+
+### Day 24th : 21st July 2020
+
+**Today's Progress**: Completed basic #javascript  section from @freeCodeCamp and Checked meta viewport tag for responsiveness
+ 
+**Thoughts:** no thoughts for today
+ 
+
+**Link to work:** https://freecodecamp.org 
+codepen link:https://codepen.io/kkamlesh286/details/LYGrmQa
+https://udemy.com
+
+
+
+
+### Day 25th : 22nd July 2020
+
+**Today's Progress**: Strengthen some GitHub basics and Started ES6 section of @freeCodeCamp and Completed day 18 solution tutorials of Kevinpowell course
+ 
+**Thoughts:** no thoughts for today
+ 
+
+**Link to work:** https://freecodecamp.org 
+codepen link:https://codepen.io/kkamlesh286/details/LYGrmQa
+https://udemy.com
+
+
+
+
+### Day 26th : 23rd July 2020
+
+**Today's Progress**: Completed 50% of ES6 section from  @freeCodeCamp
+ 
+**Thoughts:** no thoughts for today
+ 
+
+**Link to work:** https://freecodecamp.org 
+codepen link:https://codepen.io/kkamlesh286/details/LYGrmQa
+https://udemy.com
+
+
+
+
+### Day 27th : 24th July 2020
+
+**Today's Progress**: Completed 100% ES6 part from @freeCodeCamp and tried to make navbar which I have learned recently from Kevin Powell CSS course.
+ 
+**Thoughts:** no thoughts for today
+ 
+
+**Link to work:** https://freecodecamp.org 
+codepen link:https://codepen.io/kkamlesh286/details/LYGrmQa
+https://udemy.com
+
+
+
+
+
+
+
+
 
