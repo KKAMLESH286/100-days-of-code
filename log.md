@@ -309,6 +309,19 @@ https://udemy.com
 
 
 
+### Day 28th : 25th July 2020
+
+**Today's Progress**: Completed 21 days challenge of responsive design course of #CSS3 by @KevinJPowell and Completed 52% of #javascript Regex section of @freeCodeCamp
+ 
+**Thoughts:** planning to practice HTML and CSS in the morning and javascript in the evening to make progress parallely. 
+ 
+
+**Link to work:** https://freecodecamp.org 
+codepen link:https://codepen.io/kkamlesh286/details/LYGrmQa
+https://udemy.com
+
+
+
 
 
 
