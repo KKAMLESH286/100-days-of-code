@@ -320,6 +320,29 @@ https://udemy.com
 codepen link:https://codepen.io/kkamlesh286/details/LYGrmQa
 https://udemy.com
 
+### Day 29th : 26th July 2020
+
+**Today's Progress**: "Completed regex section of javascript from FCC"
+ 
+**Thoughts:** planning to start survey form project. 
+ 
+
+**Link to work:** https://freecodecamp.org 
+codepen link:https://codepen.io/kkamlesh286/details/LYGrmQa
+https://udemy.com
+
+### Day 30th : 27th July 2020
+
+**Today's Progress**: "Completed debugging section from FCC"
+ 
+**Thoughts:** started to work on survey form project of FCC. 
+ 
+
+**Link to work:** https://freecodecamp.org 
+codepen link:https://codepen.io/kkamlesh286/details/LYGrmQa
+https://udemy.com
+
+
 
 
 
