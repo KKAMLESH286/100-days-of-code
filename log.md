@@ -344,6 +344,20 @@ https://udemy.com
 
 
 
+### Day 31th : 28th July 2020
+
+**Today's Progress**: "Completed 50% of basic data structure of javascript from FCC"
+ 
+**Thoughts:** Got stuck in one problem, will continue Tomorrow with a fresh mind
+ 
+
+**Link to work:** https://freecodecamp.org 
+codepen link:https://codepen.io/kkamlesh286/details/LYGrmQa
+https://udemy.com
+
+
+
+
 
 
 
