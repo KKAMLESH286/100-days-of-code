@@ -356,6 +356,18 @@ codepen link:https://codepen.io/kkamlesh286/details/LYGrmQa
 https://udemy.com
 
 
+### Day 32th : 29th July 2020
+
+**Today's Progress**: "Completed basic data structure of javascript from FCC"
+ 
+**Thoughts:** "worked on FCC survey page project"
+ 
+
+**Link to work:** https://freecodecamp.org 
+codepen link:https://codepen.io/kkamlesh286/details/LYGrmQa
+https://udemy.com
+
+
 
 
 
