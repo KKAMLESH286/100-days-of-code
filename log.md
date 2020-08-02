@@ -411,7 +411,20 @@ codepen link:https://codepen.io/kkamlesh286/details/LYGrmQa
 https://udemy.com
 
 
+### Day 36th : 2nd Aug 2020
 
+**Today's Progress**: "learnt about falsy values"
+Do you know about falsy values in JS?
+
+A falsy value is something which returns FALSE when checking a variable. There are six falsy values in JavaScript: 
+undefined, null, NaN, 0, "" (empty str), and false.
+ 
+**Thoughts:** "Not feeling good"
+ 
+
+**Link to work:** https://freecodecamp.org 
+codepen link:https://codepen.io/kkamlesh286/details/LYGrmQa
+https://udemy.com
 
 
 
