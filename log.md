@@ -370,6 +370,49 @@ https://udemy.com
 
 
 
+### Day 33th : 30th July 2020
+
+**Today's Progress**: "Just started basic algorithmic scripting of javascript from FCC"
+
+ 
+**Thoughts:** "NO thoughts for the day"
+ 
+
+**Link to work:** https://freecodecamp.org 
+codepen link:https://codepen.io/kkamlesh286/details/LYGrmQa
+https://udemy.com
+
+
+
+### Day 34th : 31th July 2020
+
+**Today's Progress**: "Completed 50% basic algorithmic scripting of javascript from FCC"
+"It really takes a lot of time"
+
+ 
+**Thoughts:** No thoughts
+ 
+
+**Link to work:** https://freecodecamp.org 
+codepen link:https://codepen.io/kkamlesh286/details/LYGrmQa
+https://udemy.com
+
+
+
+### Day 35th : 1st Aug 2020
+
+**Today's Progress**: "Did some problems on basic algorithmic scripting of javascript thought I was not feeling good"
+ 
+**Thoughts:** "Not feeling good"
+ 
+
+**Link to work:** https://freecodecamp.org 
+codepen link:https://codepen.io/kkamlesh286/details/LYGrmQa
+https://udemy.com
+
+
+
+
 
 
 
